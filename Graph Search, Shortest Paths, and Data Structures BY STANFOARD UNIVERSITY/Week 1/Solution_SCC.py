@@ -32,7 +32,6 @@ t=0;s=-1
 visited=[False for i in range(n+1)]
 f_time=[0 for i in range(n+1)]
 leader=[None for i in range(n+1)]
-s=1
 def dfs(node,G):
     global t
     visited[node]=True

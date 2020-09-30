@@ -1,2 +1,2 @@
 # Coursera
-This repository Contains the solutions for my various Coursera courses
+This repository contains the solutions for my various Coursera courses
